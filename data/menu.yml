@@ -1,0 +1,8 @@
+- item: About
+  url: '/about-us'
+- item: Contact Us
+  url: '/contact-us'
+- item: Category
+  url: '/categories'
+- item: Tag
+  url: '/tags'
